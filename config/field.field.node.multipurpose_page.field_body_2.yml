@@ -1,0 +1,22 @@
+uuid: ad943443-c080-4a51-8b52-7ea89f8d7cf9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_body_2
+    - node.type.multipurpose_page
+  module:
+    - text
+id: node.multipurpose_page.field_body_2
+field_name: field_body_2
+entity_type: node
+bundle: multipurpose_page
+label: 'Body 2'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats: {  }
+field_type: text_long

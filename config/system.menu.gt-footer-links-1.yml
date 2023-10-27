@@ -1,0 +1,8 @@
+uuid: 8beb1878-7ba7-4d1b-9a51-1d9562c80e8e
+langcode: en
+status: true
+dependencies: {  }
+id: gt-footer-links-1
+label: 'GT footer links 1'
+description: '1 of 3 footer menus. Allows for a maximum of 25 items.'
+locked: false
